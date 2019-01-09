@@ -1,0 +1,17 @@
+.list-div-item {
+  margin-bottom: 10px;
+  margin-top: 10px;
+  padding-left: 20%;
+
+  .label-item {
+    width: 70%;
+    .item-left {
+      padding-left: 0%;
+    }
+    .item-right {
+      .button {
+        margin-left: 60%;
+      }
+    }
+  }
+}

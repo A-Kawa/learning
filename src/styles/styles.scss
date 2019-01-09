@@ -1,0 +1,15 @@
+/* Variables */
+$vin-blue: #5bb7db;
+$vin-green: #60b044;
+$vin-red: #ff0000;
+
+/* Styles */
+body {
+  overflow-x: hidden;
+  background: content-box
+    linear-gradient(
+      rgb(185, 216, 241),
+      rgb(134, 164, 219),
+      rgb(103, 127, 167) 100%
+    );
+}
